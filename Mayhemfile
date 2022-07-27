@@ -2,4 +2,4 @@ project: zchunk
 target: zck
 
 cmds:
-  - cmd: /repo/build/src/zck @@
+  - cmd: /install/bin/zck @@
